@@ -32,6 +32,11 @@ One of its best features is it's speed – it can scrape **1000 jobs in a minute
 - **📊 Flexible Data Output:**
   - Outputs data in various formats including CSV, XLSX, JSON, JSONL, XML, and RSS
 
+
+
+| Try our other scrapers ► | [Glassdoor Scraper](https://github.com/Radeance/glassdoor-scraper-public) | [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper)| [Tesco UK Scraper](https://apify.com/radeance/tesco-scraper)
+|----------------------------|-----------------------------|-----------------------------|-----------------------------|
+
 ## Use Cases | What it can be used for
 
 - **Recruiters & Hiring Managers**: To gather detailed job listings, including job title, location, pay range, and application and social media URLs.
@@ -172,3 +177,6 @@ If set to **True** the actor outputs every date field to US datetime format. If 
 If you have any technical feedback or encounter any bugs with the Wellfound Job Listings Scraper, please feel free to open up an issue.
 
 You can also contact us directly for custom integrations or project use cases at business@radeance.com.
+
+
+[Try it today for free with our 3-day trial! ](https://apify.com/radeance/wellfound-job-listings-scraper)
