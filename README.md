@@ -7,6 +7,9 @@
 
 ![Wellfound Job Listings](https://i.imgur.com/p4AKZlg.jpg)
 
+| Try our other scrapers ► | [Glassdoor Scraper](https://github.com/Radeance/glassdoor-scraper-public) | [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper)| [Tesco UK Scraper](https://apify.com/radeance/tesco-scraper)
+|----------------------------|-----------------------------|-----------------------------|-----------------------------|
+
 Welcome to this **Wellfound Job Listings Scraper** on **Apify**! This blazing fast & powerful tool is designed to effortlessly scrape job listings from Wellfound. Perfect for job seekers, recruiters, and market analysts, it can **scrape any job listing** on the site including information like **job title, description, job type, salary range, skills needed,** and much more. It also scrapes the job details page and provides comprehensive **company details like location, type of company, company size, category, and badges**.
 
 One of its best features is it's speed – it can scrape **1000 jobs in a minute** ⚡️
@@ -32,10 +35,6 @@ One of its best features is it's speed – it can scrape **1000 jobs in a minute
 - **📊 Flexible Data Output:**
   - Outputs data in various formats including CSV, XLSX, JSON, JSONL, XML, and RSS
 
-
-
-| Try our other scrapers ► | [Glassdoor Scraper](https://github.com/Radeance/glassdoor-scraper-public) | [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper)| [Tesco UK Scraper](https://apify.com/radeance/tesco-scraper)
-|----------------------------|-----------------------------|-----------------------------|-----------------------------|
 
 ## Use Cases | What it can be used for
 
