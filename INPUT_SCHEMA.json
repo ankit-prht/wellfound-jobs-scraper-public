@@ -1,0 +1,25 @@
+{
+  "title": "Wellfound Job Scraper",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "keywords": {
+      "title": "Keywords or Job Titles",
+      "type": "string",
+      "description": "Enter job title or keywords to search for (e.g. frontend developer, marketing)"
+    },
+    "experienceLevel": {
+      "title": "Experience Level",
+      "type": "string",
+      "description": "Filter by experience level (e.g. intern, junior, senior). Leave blank for all.",
+      "default": ""
+    },
+    "maxResults": {
+      "title": "Max Results",
+      "type": "integer",
+      "description": "Maximum number of job listings to fetch",
+      "default": 20
+    }
+  },
+  "required": ["keywords"]
+}
