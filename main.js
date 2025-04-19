@@ -1,6 +1,6 @@
 import { Actor } from 'apify';
 import cheerio from 'cheerio';
-import fetch from 'node-fetch';
+// fetch is built-in in Node.js 18+
 
 await Actor.init();
 
